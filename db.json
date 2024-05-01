@@ -1,0 +1,28 @@
+{
+  "bookings": [
+    {
+      "id": 1,
+      "patientName": "Mario Rossi",
+      "doctor": "Dr. Bianchi",
+      "date": "2024-05-15",
+      "time": "10:00",
+      "reason": "Checkup"
+    },
+    {
+      "id": 2,
+      "patientName": "Giulia Verdi",
+      "doctor": "Dr. Rossi",
+      "date": "2024-05-20",
+      "time": "14:30",
+      "reason": "Dental Cleaning"
+    },
+    {
+      "id": 3,
+      "patientName": "Luca Neri",
+      "doctor": "Dr. Verdi",
+      "date": "2024-05-25",
+      "time": "09:15",
+      "reason": "Eye Examination"
+    }
+  ]
+}
